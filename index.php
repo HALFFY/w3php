@@ -3,7 +3,7 @@
 <body>
 
 <?php
-$favcolor = "red";
+$favcolor = "blue";
 
 switch ($favcolor) {
   case "red":
